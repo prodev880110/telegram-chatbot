@@ -6,7 +6,7 @@ A Telegram Chatbot powered by OpenAI's GPT-3 completion.
 ## Usage:
   - Clone the repo:
     ```
-    git clone https://github.com/euromoon/telegram-chatbot.git
+    git clone https://github.com/prodev880110/telegram-chatbot.git
     ```
   - Install the dependencies:
     ```

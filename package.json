@@ -9,7 +9,7 @@
   },
   "type": "module",
   "keywords": [],
-  "author": "euromoon",
+  "author": "prodev880110",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.0.3",
